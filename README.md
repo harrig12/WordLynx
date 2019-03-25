@@ -1,3 +1,3 @@
 # WordLynx
-[WordLynx](docs/images/logo.png)
+![WordLynx](docs/images/logo.png)
 Human-readable geocoding
