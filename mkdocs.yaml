@@ -1,0 +1,37 @@
+# Project information
+site_name: 'WordLynx - human-readable geocoding'
+site_author: 'Cait Harrigan'
+site_url: 'https://harrig12.github.io/WordLynx/'
+
+# Repository
+repo_name: 'harrig12/WordLynx'
+repo_url: 'https://github.com/harrig12/WordLynx'
+
+# Configuration
+theme:
+  name: 'material'
+  language: 'en'
+  palette:
+    primary: 'Teel'
+    accent: 'Brown'
+  font: 'Montserrat'
+  logo: 'images/logo.png'
+
+# Customization
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/harrig12'
+
+# Navigation
+nav:
+    - About: index.md
+    - Canadian Open Data Competition:
+      - Data Accessed: pages/content.md
+      - Use of Data: pages/content.md
+      - Goals: pages/content.md
+      - Impact: pages/content.md
+      - Summary: pages/content.md
+    - Documentation:
+      - How to: pages/content.md
+
