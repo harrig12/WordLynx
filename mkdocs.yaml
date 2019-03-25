@@ -35,3 +35,9 @@ nav:
     - Documentation:
       - How to: pages/content.md
 
+markdown_extensions:
+    - pymdownx.arithmatex
+    - pymdownx.details
+    - pymdownx.superfences
+    - admonition
+    
