@@ -1,0 +1,2 @@
+# WordLynx
+Human-readable geocoding
