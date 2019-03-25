@@ -1,3 +1,3 @@
 # About section
 
-(Jane/Cait)
+![WordLynx logo](img/logo.png)
