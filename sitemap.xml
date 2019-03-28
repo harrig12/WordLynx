@@ -2,17 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://harrig12.github.io/WordLynx/</loc>
-     <lastmod>2019-03-25</lastmod>
+     <lastmod>2019-03-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc></loc>
+     
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://harrig12.github.io/WordLynx/pages/openData/</loc>
-     <lastmod>2019-03-25</lastmod>
+     <lastmod>2019-03-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://harrig12.github.io/WordLynx/pages/content/</loc>
-     <lastmod>2019-03-25</lastmod>
+     <loc>https://harrig12.github.io/WordLynx/pages/about/</loc>
+     <lastmod>2019-03-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://harrig12.github.io/WordLynx/img/introductionSlides.pdf</loc>
+     <lastmod>2019-03-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://harrig12.github.io/WordLynx/img/WordLynx-poster.pdf</loc>
+     <lastmod>2019-03-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
