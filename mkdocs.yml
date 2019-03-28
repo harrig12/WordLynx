@@ -12,9 +12,10 @@ theme:
   name: 'material'
   language: 'en'
   palette:
-    primary: 'Teel'
-    accent: 'Brown'
-  font: 'Baloo Chettan'
+    primary: 'Teal'
+    accent: 'Teal'
+  font: 
+    text: 'Montserrat'
   logo: 
     icon: 'map'
   favicon: 'img/map.png'
@@ -28,16 +29,39 @@ extra:
 
 # Navigation
 nav:
-    - About: index.md
-    - Canadian Open Data Competition: pages/openData.md
+    - Home: index.md
+    - Take me to the web app: https://hcvdb.med.ubc.ca/useful-links/wlns/
+    - Canadian Open Data Competition Submission: pages/openData.md
+    - About WordLynx: pages/about.md
     - More:
-      - WordLynx Manuscript: pages/content.md
+      - Introductory Slides: img/introductionSlides.pdf
+      - WordLynx Poster: img/WordLynx-poster.pdf
+
+# Search
+extra:
+  search:
+    language: 'en'
 
 # Extensions
 markdown_extensions:
-  - admonition
+
   - codehilite:
       guess_lang: false
   - toc:
       permalink: true
+  - footnotes
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
     
