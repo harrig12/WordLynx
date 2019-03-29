@@ -22,4 +22,4 @@ We're working on applying WordLynx to diverse domains:
 * Bank accounts
 * Drivers license
 * Health mapping
-* Environmentl monitoring
+* Environmental monitoring
